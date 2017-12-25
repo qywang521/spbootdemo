@@ -1,5 +1,6 @@
 book.name=SpringCloudInAction
 book.author=wzh
+spring.application.name=hello-service
 
 
 
