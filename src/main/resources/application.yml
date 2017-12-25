@@ -1,0 +1,13 @@
+book:
+  name: SpringCloudInAction
+  author: wzh
+server:
+  context-path: /springdemo
+  port: 8081
+girl:
+  age: 18
+  name: tong
+  cupSize:  F
+
+
+

@@ -26,7 +26,7 @@ public class Book {
         this.author = author;
     }
 
-    @Value("${book.author}")
+    @Value("${book.name}")
     private String name ;
 
     @Value("${book.author}")
