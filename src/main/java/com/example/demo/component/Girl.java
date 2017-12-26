@@ -35,6 +35,11 @@ public class Girl {
     @Value("${girl.name}")
     private String name ;
 
+    @Override
+    public String toString() {
+        return "toString Method:"+this.getName()+this.getAge()+this.getCupSize();
+    }
+
     public Girl() {
     }
 }
