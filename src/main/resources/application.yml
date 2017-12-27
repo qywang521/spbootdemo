@@ -8,6 +8,15 @@ girl:
   age: 18
   name: tong
   cupSize:  F
-
+#spring:
+#  datasource:
+#    driver-class-name: com.mysql.jdbc.Driver
+#    url: jdbc:mysql://127.0.0.1:3306/mydata
+#    username: wzh
+#    password: wzh123
+#  jpa:
+#    hibernate:
+#      ddl-auto: update
+#    show-sql: true
 
 
